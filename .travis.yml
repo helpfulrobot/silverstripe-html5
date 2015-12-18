@@ -33,4 +33,4 @@ before_script:
   - composer install
 
 script:
-  - vendor/bin/phpunit html5/tests
+  - vendor/bin/phpunit silverstripe-html5/tests
